@@ -1,12 +1,12 @@
-#Spring Boot Challenge
+# Spring Boot Challenge
 
-###Tasked to implement our Sequelize code from previous lessons into a Spring Boot Project using Java.
+### Tasked to implement our Sequelize code from previous lessons into a Spring Boot Project using Java.
 
 To Do:
 * Refactor code to use less lambda functions 
 * add comments so it's (way more) readable
 
-###Tech Stack
+### Tech Stack
 * Java
 * Maven
 * Intellij
